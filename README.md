@@ -7,6 +7,7 @@ This repository contains Terraform configurations to provision an AWS EKS (Elast
 - **providers.tf**: Configures the required Terraform providers (e.g., AWS).
 - **vpc.tf**: Defines VPC, subnets, and related networking resources.
 - **EKS.tf**: Defines the EKS cluster and related resources.
+- **outputs.tf**: provide the information which is required to execute EKS cluster.
 
 ## Prerequisites
 
